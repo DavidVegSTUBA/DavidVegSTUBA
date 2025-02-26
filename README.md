@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+●   I’m currently studying Applied Informatics at
+    the Faculty of Electrical Engineering and Information Technology of STU in Bratislava
+    as an undergraduate student.
+
+●   I created this GitHub profile to learn how to share my projects and also do some schoolwork related to it.
+
+
+
